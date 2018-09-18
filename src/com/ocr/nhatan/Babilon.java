@@ -1,4 +1,4 @@
-package com.ocr.nhatan
+package com.ocr.nhatan;
 
 public class Babilon{
   
